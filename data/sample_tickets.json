@@ -1,0 +1,10 @@
+[
+ {"id":"T-001","from":"sam@acmeplumbing.example","subject":"Can't log in to shared mailbox","body":"Since this morning I get 'password incorrect' on the accounts mailbox. Invoices are due out today."},
+ {"id":"T-002","from":"lee@acmeplumbing.example","subject":"New starter next Monday","body":"Please set up email and access to the job-scheduling sheet for Priya who starts Monday."},
+ {"id":"T-003","from":"jo@harbourdental.example","subject":"Printer offline again","body":"Reception printer keeps going offline. Third time this week. Patients are waiting on forms."},
+ {"id":"T-004","from":"kim@harbourdental.example","subject":"Question about invoice","body":"We were billed twice for the March backup service. Can someone check?"},
+ {"id":"T-005","from":"ray@northlogistics.example","subject":"URGENT: possible phishing email","body":"Three staff clicked a link in an email pretending to be from our bank. One entered a password."},
+ {"id":"T-006","from":"amy@northlogistics.example","subject":"Could we automate the weekly report?","body":"Every Friday I copy numbers from our booking system into a spreadsheet by hand. Is there a better way?"},
+ {"id":"T-007","from":"ben@harbourdental.example","subject":"Wi-Fi slow in back office","body":"Video calls are dropping in the back office since Tuesday."},
+ {"id":"T-008","from":"zoe@acmeplumbing.example","subject":"Thanks!","body":"Just wanted to say thanks for fixing the laptop yesterday."}
+]

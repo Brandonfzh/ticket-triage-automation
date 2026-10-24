@@ -1,0 +1,14 @@
+[
+ {"id":"L-01","subject":"Can't log in to shared mailbox","body":"Since this morning I get 'password incorrect' on the accounts mailbox. Invoices are due out today.","expected_category":"access","expected_priority":"high"},
+ {"id":"L-02","subject":"New starter next Monday","body":"Please set up email and access to the job-scheduling sheet for Priya who starts Monday.","expected_category":"onboarding","expected_priority":"medium"},
+ {"id":"L-03","subject":"Printer offline again","body":"Reception printer keeps going offline. Third time this week. Patients are waiting on forms.","expected_category":"hardware","expected_priority":"medium"},
+ {"id":"L-04","subject":"Question about invoice","body":"We were billed twice for the March backup service. Can someone check?","expected_category":"billing","expected_priority":"low"},
+ {"id":"L-05","subject":"URGENT: possible phishing email","body":"Three staff clicked a link in an email pretending to be from our bank. One entered a password.","expected_category":"security","expected_priority":"urgent"},
+ {"id":"L-06","subject":"Could we automate the weekly report?","body":"Every Friday I copy numbers from our booking system into a spreadsheet by hand. Is there a better way?","expected_category":"automation_request","expected_priority":"low"},
+ {"id":"L-07","subject":"Wi-Fi slow in back office","body":"Video calls are dropping in the back office since Tuesday.","expected_category":"network","expected_priority":"medium"},
+ {"id":"L-08","subject":"Thanks!","body":"Just wanted to say thanks for fixing the laptop yesterday.","expected_category":"feedback","expected_priority":"low"},
+ {"id":"L-09","subject":"Suspicious sign-in alert","body":"I got a notification that someone signed into my account from overseas. I did not do this.","expected_category":"security","expected_priority":"urgent"},
+ {"id":"L-10","subject":"Laptop will not turn on","body":"My laptop shows a black screen and does not respond to the power button. I have a client meeting this afternoon.","expected_category":"hardware","expected_priority":"high"},
+ {"id":"L-11","subject":"Can we get the CRM to email me new leads?","body":"New leads arrive in the CRM but I only find out when I check it. Can it send me an alert?","expected_category":"automation_request","expected_priority":"low"},
+ {"id":"L-12","subject":"Locked out of my account","body":"I tried too many times and now I am locked out of my work email.","expected_category":"access","expected_priority":"high"}
+]
