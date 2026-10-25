@@ -3,3 +3,4 @@ results.csv
 __pycache__/
 .pytest_cache/
 .venv/
+INTERVIEW_NOTES.md

@@ -29,7 +29,7 @@ python evaluate.py [--mock]                          # accuracy on 12 hand-label
 
 ## Measuring accuracy
 
-`evaluate.py` runs the classifier over `data/labelled_tickets.json` (12 tickets I labelled by hand) and prints category and priority accuracy plus the misses. The set is small, so treat the number as a sanity check, not proof. Offline mock mode scores about 83%, and misses the tickets its keyword rules were not written for, which is the point of having a held-out check. Live model result: _run `python evaluate.py` and record it here_.
+`evaluate.py` runs the classifier over `data/labelled_tickets.json` (12 tickets I labelled by hand) and prints category and priority accuracy plus the misses. The set is small, so treat the number as a sanity check, not proof. Offline mock mode scores about 83%, and misses the tickets its keyword rules were not written for, which is the point of having a held-out check. Live-model accuracy: not yet measured. The live API path is implemented and its retry and validation logic is unit tested with mocked responses, but I have not yet run it against the real service.
 
 ## Design decisions
 
